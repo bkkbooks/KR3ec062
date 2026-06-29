@@ -1,0 +1,337 @@
+canonical_identifier: bkk:krp/KR3ec062/v1
+canonical_location: https://kanripo.org/bkk/KR3ec062/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 藥論
+  identifiers:
+    krp: KR3ec062
+  tags:
+    kr-categories: KR3ec
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec062.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ec062_000.yaml, hash: 'sha256:5a69ee08d32a99308d0b519e3e7a8c979aecdfb8a3ecdc41c51e7d96f19178b9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ec062_000.markers.yaml, hash: 'sha256:013400796e9657184c7a48a0a87b6b013fc8e796c9f900c4e6d73045f5bfdc38'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 349
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 2431
+  label: 一補劑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d3d2
+    span:
+    - body
+    - 3
+    - 357
+  label: 溫中
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d3d3
+    span:
+    - body
+    - 357
+    - 945
+  label: 平補
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d3d4
+    span:
+    - body
+    - 945
+    - 2183
+  label: 滋陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d3d5
+    span:
+    - body
+    - 2183
+    - 2431
+  label: 安神
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d4.h1s1
+    span:
+    - body
+    - 2431
+    - 7013
+  label: 二散劑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d4d2
+    span:
+    - body
+    - 2434
+    - 2820
+  label: 散寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d4d3
+    span:
+    - body
+    - 2820
+    - 3892
+  label: 散風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d4d4
+    span:
+    - body
+    - 3892
+    - 4406
+  label: 散熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d4d5
+    span:
+    - body
+    - 4406
+    - 5765
+  label: 香散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d4d6
+    span:
+    - body
+    - 5765
+    - 6108
+  label: 利濕
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d4d7
+    span:
+    - body
+    - 6108
+    - 6535
+  label: 祛寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d4d8
+    span:
+    - body
+    - 6535
+    - 7013
+  label: 平降
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d5.h1s1
+    span:
+    - body
+    - 7013
+    - 9867
+  label: 三瀉劑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d5d2
+    span:
+    - body
+    - 7016
+    - 8368
+  label: 瀉火
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d5d3
+    span:
+    - body
+    - 8368
+    - 8733
+  label: 瀉實
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d5d4
+    span:
+    - body
+    - 8733
+    - 9119
+  label: 瀉水
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d5d5
+    span:
+    - body
+    - 9119
+    - 9256
+  label: 潤下
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d5d6
+    span:
+    - body
+    - 9256
+    - 9867
+  label: 降痰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d6.h1s1
+    span:
+    - body
+    - 9867
+    - 11082
+  label: 四血劑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d6d2
+    span:
+    - body
+    - 9870
+    - 10131
+  label: 溫血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d6d3
+    span:
+    - body
+    - 10131
+    - 10576
+  label: 涼血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d6d4
+    span:
+    - body
+    - 10576
+    - 11082
+  label: 下血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d7.h1s1
+    span:
+    - body
+    - 11082
+    - 11765
+  label: 五雜劑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d7d2
+    span:
+    - body
+    - 11085
+    - 11617
+  label: 收斂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d7d3
+    span:
+    - body
+    - 11617
+    - 11721
+  label: 殺蟲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d7d4
+    span:
+    - body
+    - 11721
+    - 11765
+  label: 吐劑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d8.h1s1
+    span:
+    - body
+    - 11765
+    - 11930
+  label: 附反畏歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d8d2
+    span:
+    - body
+    - 11769
+    - 11840
+  label: 十八反歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec062_jc_000-d8d3
+    span:
+    - body
+    - 11840
+    - 11930
+  label: 十九畏歌
+  type: section
+  level: 2
+hash: sha256:d76f4eb298f1a53df3081e3f6354afcf41a4f7875f7037d21cb5d1fcce5873e4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
