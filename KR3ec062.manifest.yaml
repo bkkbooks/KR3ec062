@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ec062/v1
 canonical_location: https://kanripo.org/bkk/KR3ec062/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 藥論
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ec062_000.yaml, hash: 'sha256:fa2d4ba1b9bd398b9cb04efdaa00969c270afd6e244a7cb33cdee2b516b19695'}
+  - {seq: 0, filename: KR3ec062_000.yaml, hash: 'sha256:3817aba4b048b3e57550e386107d7c16f9e3001e1f7c25c355116f35eb82cbf0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec062_000.markers.yaml, hash: 'sha256:261789619d913303ef28b90bd8d82e26535e71716b461796016e9b91bb27bbf6'}
+  - {seq: 0, role: markers, filename: assets/KR3ec062_000.markers.yaml, hash: 'sha256:67f2aa36ef1f9928c33b7799cb14e13444f386882d84a52c2a774fc56d61a29e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -331,4 +331,7 @@ table_of_contents:
   label: 十九畏歌
   type: section
   level: 2
-hash: sha256:40ef5848e0090c29a2b83be8436641e6726af363e35483b5051326eff12b4519
+hash: sha256:892537273e46c682cdba67071324ed1fd9cf213968a3da6ca991399c64604e23
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
