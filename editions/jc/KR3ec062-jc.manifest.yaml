@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ec062_000-jc.yaml, hash: 'sha256:fa2d4ba1b9bd398b9cb04efdaa00969c270afd6e244a7cb33cdee2b516b19695'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec062_000-jc.markers.yaml, hash: 'sha256:037ea8f7e31b5f586ad0a811c41f6f3081cb7dda6fd20c69435d4ceae88ec2be'}
+  - {seq: 0, role: markers, filename: assets/KR3ec062_000-jc.markers.yaml, hash: 'sha256:1a903adbd5cce5e9b18cd6a497db3ff1b05ea92aa94ac4faa3187245d118f637'}
 table_of_contents:
 - ref:
     seq: 0
@@ -331,4 +331,4 @@ table_of_contents:
   label: 十九畏歌
   type: section
   level: 2
-hash: sha256:6c34b903bf4383b5d2feadb6e46670082151f716d1ed53b27dd6cd9f8953ff2d
+hash: sha256:5975540b982cde2da2091af1109d2b595ffb2776bf8889ca83690f063cc31a0d

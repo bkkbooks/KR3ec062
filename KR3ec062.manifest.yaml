@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ec062_000.yaml, hash: 'sha256:3817aba4b048b3e57550e386107d7c16f9e3001e1f7c25c355116f35eb82cbf0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec062_000.markers.yaml, hash: 'sha256:67f2aa36ef1f9928c33b7799cb14e13444f386882d84a52c2a774fc56d61a29e'}
+  - {seq: 0, role: markers, filename: assets/KR3ec062_000.markers.yaml, hash: 'sha256:df0bd1400f1e78b7aa33e56248aa8fbcbed217358a84e22009e32cc242bda3c0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -331,7 +331,7 @@ table_of_contents:
   label: 十九畏歌
   type: section
   level: 2
-hash: sha256:892537273e46c682cdba67071324ed1fd9cf213968a3da6ca991399c64604e23
+hash: sha256:3b7402aceeda52d484b7bf6bcc89364c55674577086bc200140f13e87b5dc6a0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
